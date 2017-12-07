@@ -54,7 +54,7 @@ In terms of nomenclature for the production assignments, there will be smaller w
 Graded Activities:
 - Attendance: 10%
 - Participation: 10%
-- Work Documentation and Reading Responses: 20%
+- Documentation and Reading Responses: 20%
 - Exercises: 20%
 - Projects: 40%
 
