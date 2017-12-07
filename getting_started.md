@@ -16,12 +16,12 @@
   - `git checkout master`
   - `git merge upstream/master`
 - Do all your work on your personal branch, not master:
-  - `git checkout yourbranch` 
+  - `git checkout` _your_branch_name_ 
 - Push your work to github:
   - `git add -A`
   - `git commit -m "your commit message"`
-  - `git pull origin yourbranch` (not absolutely necessary but safer and a good habit to get into to avoid merge conflicts)
-  - `git push origin yourbranch`
+  - `git pull origin` _your_branch_name_ (not absolutely necessary but safer and a good habit to get into to avoid merge conflicts)
+  - `git push origin` _your_branch_name_
 
 ## Assignment Documentation
 ### Posting Assignments
