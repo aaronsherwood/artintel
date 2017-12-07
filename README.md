@@ -103,7 +103,7 @@ Required Text:
 
 Weekly Schedule:
 
-# Week 1 - ML for Interaction
+### Week 1 - ML for Interaction
 
 - What is Artificial Intelligence - Machine Learning?
 - Overview
@@ -118,7 +118,7 @@ Weekly Schedule:
   - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)
   - What is AI &amp; History: [Chapter 1 Artificial Intelligence a Modern Approach](http://web.cecs.pdx.edu/~mperkows/CLASS_479/2017_ZZ_00/02__GOOD_Russel=Norvig=Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
 
-# Week 2 - More ML for Interaction
+### Week 2 - More ML for Interaction
 
 - Regression
   - Linear/Plynomial
@@ -133,7 +133,7 @@ Weekly Schedule:
   - AI Revolution Parts [1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) &amp; [2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
   - Play [Paperclips](http://www.decisionproblem.com/paperclips/)
 
-# Week 3 - Time Based Interactions
+### Week 3 - Time Based Interactions
 
 - Dynamic Time Warping
 - Various sensing methods
@@ -162,7 +162,7 @@ Weekly Schedule:
   - [Machine Ethics](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
   - [Moral Machine](http://moralmachine.mit.edu/)
 
-# Week 5 - Neural Nets from scratch: Math
+### Week 5 - Neural Nets from scratch: Math
 
 - Linear Algebra Primer
   - Vectors
@@ -177,7 +177,7 @@ Weekly Schedule:
 - Reading
   - Make Your Own Neural Network, Part 1 - How They Work, Tariq Rashid
 
-# Week 6  - Neural Nets from scratch: Code
+### Week 6  - Neural Nets from scratch: Code
 
 - MNIST
 - Python: Jupyter, IPython, Numpy, SciPy, etc.
@@ -189,13 +189,13 @@ Weekly Schedule:
 - Intro to Tensorflow
 - Intro to Keras
 
-# Week 8 - Unsupervised Learning
+### Week 8 - Unsupervised Learning
 
 - Clustering
 - Autoencoders
 - Generative Adversarial Networks
 
-# Weeks 9 &amp; 10 - Images
+### Weeks 9 &amp; 10 - Images
 
 - Convolutional Neural Nets
   - Image Classification - [CIFAR-10](https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py) ( [online demo](http://ml4a.github.io/dev/demos/cifar_confusion.html))
@@ -222,7 +222,7 @@ Weekly Schedule:
   - [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/)
 
-# Weeks 12 &amp; 13 - Sound
+### Weeks 12 &amp; 13 - Sound
 
 - [Magenta](https://magenta.tensorflow.org/) (RNN)
   - [drum patterns](https://github.com/tensorflow/magenta/tree/master/magenta/models/drums_rnn)
