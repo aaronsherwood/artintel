@@ -26,7 +26,7 @@
 ## Assignment Documentation
 ### Posting Assignments
 Add links every week for your reading responses and documentation for production assignments by editing the _studentwork_spring2018.md_ in your master branch. 
-- _IMPORTANT_: First, before adding links to that file, do a merge from my master to your master (see above), to avoid merge conflicts.
+- _IMPORTANT_: First, before adding links to that file, do a merge from upstream to your master (see above), to avoid merge conflicts.
 - Then, after including your link(s) in the _studentwork_spring2018.md_ file, make a pull request to me (on your master branch) to add your links into the original mark down file on my github. 
 - The link(s) each week included on the main studentwork page should be just one master link per assignment/reading/etc. The page the master link leads to should contain all your descriptions/audio/video/pictures/responses/links/etc.
 
