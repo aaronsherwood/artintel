@@ -232,7 +232,7 @@ Weekly Schedule:
   - [dynamics](https://github.com/tensorflow/magenta/tree/master/magenta/models/performance_rnn)
 - [wavenet](https://github.com/ibab/tensorflow-wavenet) (CNN)
 - [nsynth](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) ( [https://experiments.withgoogle.com/ai/sound-maker](https://experiments.withgoogle.com/ai/sound-maker))
-- [rganizing sound](https://github.com/kylemcdonald/AudioNotebooks)
+- [Organizing sound](https://github.com/kylemcdonald/AudioNotebooks)
   - t-sne:  [https://experiments.withgoogle.com/ai/drum-machine/view/](https://experiments.withgoogle.com/ai/drum-machine/view/)
   - bird sounds:  [https://experiments.withgoogle.com/ai/bird-sounds/view/](https://experiments.withgoogle.com/ai/bird-sounds/view/)
 - Commercial
