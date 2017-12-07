@@ -1,4 +1,4 @@
-# Getting Started / Class Workflownn
+# Getting Started / Class Workflow
 
 ## Github setup and general use
 
