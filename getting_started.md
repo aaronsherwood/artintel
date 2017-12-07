@@ -20,7 +20,7 @@
 - Push your work to github:
   - `git add -A`
   - `git commit -m "your commit message"`
-  - `git pull origin yourbranch`
+  - `git pull origin yourbranch` (not absolutely necessary but safer and a good habit to get into to avoid merge conflicts)
   - `git push origin yourbranch`
 
 ## Assignment Documentation
