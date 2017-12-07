@@ -43,7 +43,7 @@ The link(s) each week included on the main studentwork page should be just one m
 All code you've worked on should be in your personal dev branch. You can include links to code from your dev branch in you documentation post when you feel it is appropriate. All media files should be hosted on appropriate websites (examples: vimeo for video, soundcloud for audio, etc.). The page that contains your weekly documentation (as mentioned above) could be on your own website, or tumblr, or wordpress, etc.   
 
 ### Notes about Documentation/Responses
-**You are expected to document all your work.** The purpose of this is twofold. First, it is a valuable way for you to communicate to me that you are keeping up with the work in the class. I read the site to see how you are doing. At a minimum, reference to your work is expected, as well as reference to the readings, and thorough documentation of any research. Secondly, this is a way to document your work for your own use and that of others.
+**You are expected to document all your work** (it's 20% of your overall grade). The purpose of this is twofold. First, it is a valuable way for you to communicate to me that you are keeping up with the work in the class. I read the site to see how you are doing. At a minimum, reference to your work is expected, as well as reference to the readings, and thorough documentation of any research. Secondly, this is a way to document your work for your own use and that of others.
 
 You must update this weekly with the work you have done for class.
 
