@@ -2,7 +2,7 @@
 
 ## Github setup and general use
 
-- Signup for github account if you don't have one!
+- Signup for a github account if you don't have one!
 - Fork this repo
 - Clone the forked repo on your computer
 - Add a branch for your personal dev work
