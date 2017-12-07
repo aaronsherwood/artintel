@@ -126,7 +126,7 @@ Weekly Schedule:
   - Neural Net (soft intro)
 - Classification Pt. 2
   - Naive Bayes
-  - Ada Bst
+  - Ada Boost
   - Support Vector Machine
   - Probability
   - Multiple Classifiers
