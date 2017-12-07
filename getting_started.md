@@ -15,7 +15,7 @@
   - `git fetch upstream`
   - `git checkout master`
   - `git merge upstream/master`
-- Do all you work on your personal branch, not master:
+- Do all your work on your personal branch, not master:
   - `git checkout yourbranch` 
 - Push your work to github:
   - `git add -A`
