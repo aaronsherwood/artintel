@@ -26,7 +26,7 @@
 ## Assignment Documentation
 ### Posting Assignments
 Add links every week for your reading responses and documentation for production assignments by editing the _studentwork_spring2018.md_ in your master branch. 
-- _IMPORTANT:_ Before adding links to that file do the following, in order to avoid merge conflicts:
+- _IMPORTANT:_ Before adding links to that file do the following, merge from upstream to master to avoid merge conflicts:
   - `git checkout master`
   - `git fetch upstream`
   - `git merge upstream/master`
@@ -34,6 +34,7 @@ Add links every week for your reading responses and documentation for production
 - Make a pull request to me (on your master branch) via github.com, to add your links into the original mark down file on my github. 
 - Pull from your master branch online to your local repo:
   - `git pull origin master`
+  
 The link(s) each week included on the main studentwork page should be just one master link per assignment/reading/etc. The page the master link leads to should contain all your descriptions/audio/video/pictures/responses/links/etc.
 
 All code you've worked on should be in your personal dev branch. You can include links to code from your dev branch in you documentation post when you feel it is appropriate. All media files should be hosted on appropriate websites (examples: vimeo for video, soundcloud for audio, etc.). The page that contains your weekly documentation (as mentioned above) could be on your own website, or tumblr, or wordpress, etc.   
