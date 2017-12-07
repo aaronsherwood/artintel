@@ -12,7 +12,9 @@
 - Check remote locations to confirm upstream location added:
   - `git remote -v`
 - Merge new examples I might add during the semester to your master branch:
-  - `git rebase upstream/master`
+  - `git fetch upstream`
+  - `git checkout master`
+  - `git merge upstream/master`
 - Do all your work on your personal branch, not master:
   - `git checkout` _your_branch_name_ 
 - Push your work to github:
@@ -25,7 +27,9 @@
 ### Posting Assignments
 Add links every week for your reading responses and documentation for production assignments by editing the _studentwork_spring2018.md_ in your master branch. 
 - _IMPORTANT:_ Before adding links to that file, merge from upstream to master to avoid merge conflicts:
-  - `git rebase upstream/master`
+  - `git fetch upstream`
+  - `git checkout master`
+  - `git merge upstream/master`
 - Then, include your link(s) in the _studentwork_spring2018.md_ file (make sure you're on master). It might be easier to do this step online, rather then locally.
 - Make a pull request to me (on your master branch) via github.com, to add your links into the original mark down file on my github. 
 - Pull from your master branch online to your local master:
