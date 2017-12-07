@@ -28,10 +28,6 @@
 Add links every week for your reading responses and documentation for production assignments by editing the _studentwork_spring2018.md_ in your master branch. 
 - _IMPORTANT:_ Before adding links to that file do the following, in order to avoid merge conflicts:
   - `git checkout master`
-  - `git add -A`
-  - `git commit -m "your commit message"`
-  - `git pull origin master`
-  - `git push origin master`
   - `git fetch upstream`
   - `git merge upstream/master`
 - Then, include your link(s) in the _studentwork_spring2018.md_ file (make sure you're on master). It's probably easier to do this step online, rather then locally.
