@@ -47,20 +47,20 @@ If you do not ask questions, I can only assume you understand the material compl
 
 Assignments:
 
-Each student will maintain a blog, documenting their work. All assignments are due the following class. Usually, production assignments will be assigned on Wednesdays and will be due the following Monday. Every production assignment should be documented on the blog. For all reading assignments, students are expected to write a short blog post (approx. 100-200 words) with their reactions, prior to the class discussion on the material.
+Each student will thoroughly document their work online. All assignments are due the following class. Usually, production assignments will be assigned on Wednesdays and will be due the following Monday. Every production assignment should be documented with photos/videos/sketches/audio/etc (see get_started.md for more info). For all reading assignments, students are expected to write a short blog post (approx. 100-200 words) with their reactions, prior to the class discussion on the material.
 
 In terms of nomenclature for the production assignments, there will be smaller weekly assignments called Exercises. There will also be four larger assignments, which will be called Projects. These larger Projects are worth a considerable portion of the overall grade, and subsequently, more effort will be expected for these assignments.
 
 Graded Activities:
 - Attendance: 10%
 - Participation: 10%
-- Blog Posts: 20%
+- Work Documentation and Reading Responses: 20%
 - Exercises: 20%
 - Projects: 40%
 
 Grading Rubrics
 
-Production assignments will be graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself).Blog posts will be graded on critical reasoning and erudition of assigned topic if reading assignment, and quality &amp; extent of documentation if production assignment. Participation will be graded on a combination of class discussion, group project work, office hours meetings, and possible extracurricular class trips/workshops/talks/movie screenings/etc.
+Production assignments will be graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation/Reading will be graded on critical reasoning and erudition of assigned topic if reading assignment, and quality &amp; extent of documentation if production assignment. Participation will be graded on a combination of class discussion, group project work, office hours meetings, and possible extracurricular class trips/workshops/talks/movie screenings/etc.
 
 Attendance:
 
