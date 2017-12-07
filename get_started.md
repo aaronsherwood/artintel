@@ -1,11 +1,10 @@
-# Class Workflow
+# Getting Started / Class Workflow
 
 ## Github setup and general use
 
 - Signup for github account if you don't have one!
 - Fork this repo
-- Make a folder for our class on your computer
-- Clone both the repo and the wiki inside that folder on your computer
+- Clone the forked repo on your computer
 - Add a branch for your personal work
   - `git checkout -b` _your_branch_name_ (-b means add a new branch)
 - Add the upstream location:
@@ -24,4 +23,23 @@
   - `git push origin yourbranch`
 
 ## Assignment Documentation
-All production assignments should be documented. This 
+### Posting Assignments
+Add links every week for your reading responses and production assignments documention by editing the studentwork_spring2018.md in your master branch. You can do this online at github.com. After including your links then make a pull request to me to add your links into the original mark down file.
+
+You are expected to document all your work. The purpose of this is twofold. First, it is a valuable way for you to communicate to me that you are keeping up with the work in the class. I read the site to see how you are doing. At a minimum, reference to your work is expected, as well as reference to the readings, and thorough documentation of any research. Secondly, the journal is a way to document your work for your own use and that of others.
+
+You must update the journal weekly with the work you have done for class.
+
+Document your projects thoroughly as you go; don’t put it off until the end.  Photos, video, drawings, schematics, and notes are all valuable forms of documentation. Explain the project at the beginning of your documentation, so that people who come to your site from outside this class can understand your work quickly.
+
+Use pictures, drawings, and videos liberally to explain your work.
+
+Don’t overload your notes with code.  Code repositories like gitHub are best for sharing code, rather than blogs, so post your code to a repository and link to it from your blog. When you base your code on someone else’s code, cite the original author and link to their code, just as you would when quoting another author in a paper. If you only changed one part of an existing program, post only the part you changed, and link to the original. Make sure any code you post is well-commented, so you and others can understand what it does.
+
+Always cite the sources of your code, the places you learned techniques from, and the inspirations of your ideas. Copying code or techniques without attribution is plagiarism.  Few ideas come out of the blue, and your readers can learn a lot from the sources from which you learned and by which you were were inspired. So be generous in sharing your sources.
+
+Good documentation should include a description and illustration of your project. You should include what it looks like, what it does, what the user or participant does in response. When it’s interactive, mention and show what the user does. Your explanation should give enough information that someone who’s never seen the project can  understand it.
+
+You should also include a section describing how the project works, aimed at a more informed reader (your instructor, or next year’s classmates). Include a system diagram to make clear what the major components of the system are and how they communicate.
+
+You should use the journal as an opportunity to write clear, concise thoughts or questions based on the weekly topics. The writing is expected to be well reasoned, grammatically correct, and written as if it were a paper being turned in. You should link to any relevant sources, and provide as much context as you can using images, video, audio, or other forms of expression. I’ll set you all up with an account the first day of class.  
