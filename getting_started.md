@@ -9,7 +9,7 @@
   - `git checkout -b` _your_branch_name_ (-b means add a new branch)
 - Add the upstream location:
   - `git remote add upstream https://github.com/aaronsherwood/artintel`
-- Check remote locations:
+- Check remote locations to confirm upstream location added:
   - `git remote -v`
 - Merge new examples I might add during the semester to your master branch:
   - `git fetch upstream`
