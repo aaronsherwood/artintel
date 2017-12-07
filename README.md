@@ -101,6 +101,7 @@ Required Text:
 
 - Rashid, Tariq (2016). _Make Your Own Neural Network_. CreateSpace Independent Publishing.
 
+<br />
 Weekly Schedule:
 
 ### Week 1 - ML for Interaction
