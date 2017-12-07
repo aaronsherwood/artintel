@@ -15,6 +15,9 @@
   - `git fetch upstream`
   - `git checkout master`
   - `git merge upstream/master`
+- Merge those new examples from master into your personal dev branch (after merging from upstream):
+  - `git checkout` _your_branch_name_
+  - `git merge master`
 - Do all your work on your personal branch, not master:
   - `git checkout` _your_branch_name_ 
 - Push your work to github:
@@ -33,7 +36,7 @@ Add links every week for your reading responses and documentation for production
 - Then, include your link(s) in the _studentwork_spring2018.md_ file (make sure you're on master). It might be easier to do this step online, rather then locally.
 - Make a pull request to me (on your master branch) via github.com, to add your links into the original mark down file on my github. 
 - Pull from your master branch online to your local master:
-  - `git pull origin master`
+  - `git pull origin master` 
   
 The link(s) each week included on the main studentwork page should be just one master link per assignment/reading/etc. The page the master link leads to should contain all your descriptions/audio/video/pictures/responses/links/etc.
 
